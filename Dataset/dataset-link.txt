@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/anik43/bangladesh-historical-weather-dataset-2008-2023
+
+credit: open-meteo weather API
